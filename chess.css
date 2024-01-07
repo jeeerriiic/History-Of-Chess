@@ -36,6 +36,37 @@ header h1 {
 }
 /* header */
 
-/* navbar */
+/* contentCont */
+.contentCont {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contentCont li {
+    list-style: none;
+}
+
+.contentCont a {
+    text-decoration: none;
+}
 
 /* navbar */
+nav {
+    width: 30%;
+    height: auto;
+    border: 2px solid red;
+}
+
+.navLinks a {
+    font-size: 1.2rem;
+    color: #000;
+}
+/* navbar */
+
+/* articleCont */
+.articleCont {
+    width: 60%;
+    border: 2px solid red;
+}
+/* articleCont */
+/* contentCont */
