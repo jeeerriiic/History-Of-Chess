@@ -2,5 +2,10 @@
 1/5/2024
 √set up git repo
 
+1/7/2024
+√finished header
+work on navbar
+    vertical navbar
+
 
 creator of the article ColinStapczynski chess.com
