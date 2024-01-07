@@ -4,8 +4,10 @@
 
 1/7/2024
 √finished header
-work on navbar
+Xwork on navbar
     vertical navbar
+no navbar
+navbar links will be after the intro paragraph
 
 
 creator of the article ColinStapczynski chess.com
