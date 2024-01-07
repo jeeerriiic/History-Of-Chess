@@ -1,12 +1,18 @@
+/* colors */
+/* #305730 - Dark Green */
+/* colors */
+
 /* body */
 body {
     font-size: 1rem;
     font-family: 'Times New Roman', Times, serif;
-    letter-spacing: 0.8rem;
+    letter-spacing: 1.2rem;
     margin: -1px;
     text-align: center;
     overflow-y: auto;
     overflow-x: hidden;
+    background-image: url(./refHome/Jani\ Kaasinen\ chessHTML\ bodyBackground.jpg);
+    background-position: center;
 }
 /* body */
 
@@ -14,15 +20,19 @@ body {
 header {
     display: block;
     width: 100%;
-    height: 350px;
+    height: auto;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 1rem;
+    /* color: #fff; */
+    background-color: #498549f1;
+    border-bottom: 5px solid #305730;
 }
 
 header h1 {
-    font-size: 12rem;
+    font-size: 7rem;
     font-weight: 400;
-    color: #000;
-    margin-top: 0;
-    padding-top: 2%;
+    margin: 0;
 }
 /* header */
 
