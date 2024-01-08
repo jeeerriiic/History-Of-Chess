@@ -11,7 +11,7 @@ body {
     text-align: center;
     overflow-y: auto;
     overflow-x: hidden;
-    background-image: url(./refHome/Felix\ Mittermeier\ chessHTML\ bodyBackground2.jpg);
+    background-image: url(./refChess/Felix\ Mittermeier\ chessHTML\ bodyBackground2.jpg);
     background-position: center;
 }
 /* body */
@@ -34,37 +34,36 @@ header h1 {
 }
 /* header */
 
-/* contentCont */
-.contentCont {
+/* article */
+.article {
     display: flex;
-    justify-content: space-between;
-}
-
-.contentCont li {
-    list-style: none;
-}
-
-.contentCont a {
-    text-decoration: none;
-}
-
-/* navbar */
-nav {
-    width: 30%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
     height: auto;
-    border: 2px solid red;
+    font-family: sans-serif;
+    letter-spacing: 0.5rem;
+    margin: 2% 0% 2% 5%;
+    background-color: #a0a0a033;
 }
-
-.navLinks a {
-    font-size: 1.2rem;
-    color: #000;
-}
-/* navbar */
-
-/* articleCont */
-.articleCont {
+/* intro */
+.introCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     width: 60%;
-    border: 2px solid red;
+    background-color: #1e1e1ed0;
 }
-/* articleCont */
-/* contentCont */
+
+.introCont img {
+    width: 80%;
+    margin: 2% 0% 2% 10%;
+}
+
+.introCont h3 {
+    color: #fff;
+    font-size: 1.5rem;
+}
+/* intro */
+/* article */
