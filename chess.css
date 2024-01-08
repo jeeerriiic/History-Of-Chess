@@ -11,7 +11,7 @@ body {
     text-align: center;
     overflow-y: auto;
     overflow-x: hidden;
-    background-image: url(./refHome/Jani\ Kaasinen\ chessHTML\ bodyBackground.jpg);
+    background-image: url(./refHome/Felix\ Mittermeier\ chessHTML\ bodyBackground2.jpg);
     background-position: center;
 }
 /* body */
@@ -24,14 +24,12 @@ header {
     text-decoration: underline;
     text-decoration-thickness: 4px;
     text-underline-offset: 1rem;
-    /* color: #fff; */
-    background-color: #498549f1;
-    border-bottom: 5px solid #305730;
+    text-shadow: #fff 1px 0 10px;
 }
 
 header h1 {
-    font-size: 7rem;
-    font-weight: 400;
+    font-size: 8rem;
+    font-weight: bold;
     margin: 0;
 }
 /* header */
