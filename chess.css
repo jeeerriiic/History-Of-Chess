@@ -47,6 +47,40 @@ header h1 {
     margin: 2% 0% 2% 5%;
     background-color: #a0a0a033;
 }
+
+.article h3 {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.article p {
+    color: #fff;
+    letter-spacing: 0.2rem;
+    text-align: left;
+    margin: 2% 2%;
+}
+
+.article h4 {
+    color: #fff;
+    letter-spacing: 0.2rem;
+    text-align: left;
+    margin: 2% 2% 0% 2%;
+}
+
+.article li {
+    color: #fff;
+    text-align: left;
+    margin: 2% 0%;
+}
+
+.article a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.article a:hover {
+    text-decoration: underline;
+}
 /* intro */
 .introCont {
     display: flex;
@@ -59,11 +93,6 @@ header h1 {
 .introCont img {
     width: 80%;
     margin: 2% 0% 2% 10%;
-}
-
-.introCont h3 {
-    color: #fff;
-    font-size: 1.5rem;
 }
 /* intro */
 /* article */
