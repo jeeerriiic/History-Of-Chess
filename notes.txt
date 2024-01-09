@@ -15,6 +15,7 @@ Xwork on navbar
         work on first world champions
 finished world champions
 finished soviet dominance
+finished karpov kasparov computers carlsen
 
 no navbar
 navbar links will be after the intro paragraph
