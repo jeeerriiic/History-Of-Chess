@@ -22,6 +22,8 @@ finished karpov kasparov computers carlsen
 √connected intro links to corresponding sections
 √changed intro links into a navbar
 work on references page
+    finished header
+    finished navbar
 
 Xno navbar
 navbar links will be after the intro paragraph
