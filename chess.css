@@ -146,4 +146,54 @@ header h1 {
     letter-spacing: 0.2rem;
 }
 /* chess theory */
+
+/* first world champions */
+.championsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    background-color: #1e1e1ed0;
+}
+
+.championsCont strong {
+    text-decoration: underline;
+}
+
+.championsCont img {
+    width: 80%;
+    margin: 2% 0% 0% 10%;
+}
+
+.championsCont h5 {
+    font-style: italic;
+    color: #fff;
+    letter-spacing: 0.2rem;
+}
+/* first world champions */
+
+/* soviet dominance */
+.sovietDominanceCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    background-color: #1e1e1ed0;
+}
+
+.sovietDominanceCont strong {
+    text-decoration: underline;
+}
+
+.sovietDominanceCont img {
+    width: 80%;
+    margin: 2% 0% 0% 10%;
+}
+
+.sovietDominanceCont h5 {
+    font-style: italic;
+    color: #fff;
+    letter-spacing: 0.2rem;
+}
+/* soviet dominance */
 /* article */
