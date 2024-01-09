@@ -13,6 +13,8 @@ Xwork on navbar
 √finish chess theory
     extra time
         work on first world champions
+finished world champions
+finished soviet dominance
 
 no navbar
 navbar links will be after the intro paragraph
