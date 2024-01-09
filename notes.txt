@@ -8,7 +8,7 @@ Xwork on navbar
     vertical navbar
 
 1/8/2024
-finish intro
+√finish intro
 finish chess origins
 finish first world champions
 
