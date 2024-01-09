@@ -25,14 +25,49 @@ header {
     text-decoration-thickness: 4px;
     text-underline-offset: 1rem;
     text-shadow: #fff 1px 0 10px;
+    scroll-margin-top: 30px;
 }
 
 header h1 {
     font-size: 8rem;
     font-weight: bold;
-    margin: 0;
+    margin: 2% 0% 0% 0%;
 }
 /* header */
+
+/* navbar */
+nav {
+    letter-spacing: 0;
+}
+
+nav li {
+    list-style: none;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navLinks {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    background-color: #a0a0a0;
+}
+
+.navTitle {
+    padding: 5%;
+}
+
+.navTitle:hover {
+    text-decoration: underline;
+}
+/* navbar */
 
 /* article */
 .article {
@@ -66,21 +101,6 @@ header h1 {
     text-align: left;
     margin: 2% 2% 0% 2%;
 }
-
-.article li {
-    color: #fff;
-    text-align: left;
-    margin: 2% 0%;
-}
-
-.article a {
-    color: #fff;
-    text-decoration: none;
-}
-
-.article a:hover {
-    text-decoration: underline;
-}
 /* intro */
 .introCont {
     display: flex;
@@ -104,6 +124,7 @@ header h1 {
     width: 60%;
     background-color: #1e1e1ed0;
     border-top: 2px solid #a0a0a033;
+    scroll-margin-top: 30px;
 }
 
 .chessOriginsCont strong {
@@ -129,6 +150,7 @@ header h1 {
     justify-content: center;
     width: 60%;
     background-color: #1e1e1ed0;
+    scroll-margin-top: 30px;
 }
 
 .chessTheoryCont strong {
@@ -154,6 +176,7 @@ header h1 {
     justify-content: center;
     width: 60%;
     background-color: #1e1e1ed0;
+    scroll-margin-top: 30px;
 }
 
 .championsCont strong {
@@ -179,6 +202,7 @@ header h1 {
     justify-content: center;
     width: 60%;
     background-color: #1e1e1ed0;
+    scroll-margin-top: 30px;
 }
 
 .sovietDominanceCont strong {
@@ -204,6 +228,7 @@ header h1 {
     justify-content: center;
     width: 60%;
     background-color: #1e1e1ed0;
+    scroll-margin-top: 30px;
 }
 
 .kkccCont strong {

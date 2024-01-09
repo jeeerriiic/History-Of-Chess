@@ -18,10 +18,11 @@ finished soviet dominance
 finished karpov kasparov computers carlsen
 
 1/9/2024
-work on footer
-connected intro links to corresponding sections
+√work on footer
+√connected intro links to corresponding sections
+√changed intro links into a navbar
 
-no navbar
+Xno navbar
 navbar links will be after the intro paragraph
 
 
