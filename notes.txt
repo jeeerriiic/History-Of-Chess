@@ -17,6 +17,9 @@ finished world champions
 finished soviet dominance
 finished karpov kasparov computers carlsen
 
+1/9/2024
+work on footer
+
 no navbar
 navbar links will be after the intro paragraph
 
