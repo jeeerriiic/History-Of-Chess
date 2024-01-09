@@ -95,4 +95,55 @@ header h1 {
     margin: 2% 0% 2% 10%;
 }
 /* intro */
+
+/* chess origins */
+.chessOriginsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    background-color: #1e1e1ed0;
+    border-top: 2px solid #a0a0a033;
+}
+
+.chessOriginsCont strong {
+    text-decoration: underline;
+}
+
+.chessOriginsCont img {
+    width: 80%;
+    margin: 2% 0% 0% 10%;
+}
+
+.chessOriginsCont h5 {
+    font-style: italic;
+    color: #fff;
+    letter-spacing: 0.2rem;
+}
+/* chess origins */
+
+/* chess theory */
+.chessTheoryCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    background-color: #1e1e1ed0;
+}
+
+.chessTheoryCont strong {
+    text-decoration: underline;
+}
+
+.chessTheoryCont img {
+    width: 80%;
+    margin: 2% 0% 0% 10%;
+}
+
+.chessTheoryCont h5 {
+    font-style: italic;
+    color: #fff;
+    letter-spacing: 0.2rem;
+}
+/* chess theory */
 /* article */

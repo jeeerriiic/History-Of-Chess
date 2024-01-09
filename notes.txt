@@ -9,7 +9,8 @@ Xwork on navbar
 
 1/8/2024
 √finish intro
-finish chess origins
+√finish chess origins
+√finish chess theory
 finish first world champions
 
 no navbar
