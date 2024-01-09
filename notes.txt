@@ -11,7 +11,8 @@ Xwork on navbar
 √finish intro
 √finish chess origins
 √finish chess theory
-finish first world champions
+    extra time
+        work on first world champions
 
 no navbar
 navbar links will be after the intro paragraph
