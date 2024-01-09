@@ -196,4 +196,29 @@ header h1 {
     letter-spacing: 0.2rem;
 }
 /* soviet dominance */
+
+/* karpov kasparov computers carlsen */
+.kkccCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    background-color: #1e1e1ed0;
+}
+
+.kkccCont strong {
+    text-decoration: underline;
+}
+
+.kkccCont img {
+    width: 80%;
+    margin: 2% 0% 0% 10%;
+}
+
+.kkccCont h5 {
+    font-style: italic;
+    color: #fff;
+    letter-spacing: 0.2rem;
+}
+/* karpov kasparov computers carlsen */
 /* article */
