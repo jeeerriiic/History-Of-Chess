@@ -11,7 +11,7 @@ body {
     text-align: center;
     overflow-y: auto;
     overflow-x: hidden;
-    background-image: url(./refChess/Felix\ Mittermeier\ chessHTML\ bodyBackground2.jpg);
+    background-image: url(./refChess/Felix\ Mittermeier\ chessHTML\ bodyBackground.jpg), url(./refChess/Hassan\ Pasha\ chessHTML\ bodyBackground2.jpg);
     background-position: center;
 }
 /* body */
@@ -40,11 +40,11 @@ header h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 90%;
+    width: 100%;
     height: auto;
     font-family: sans-serif;
     letter-spacing: 0.5rem;
-    margin: 2% 0% 2% 5%;
+    margin: 2% 0% 2% 0%;
     background-color: #a0a0a033;
 }
 
