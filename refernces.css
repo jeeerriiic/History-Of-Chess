@@ -74,7 +74,7 @@ nav a {
     width: 100%;
     height: auto;
     letter-spacing: 0.5rem;
-    margin: 1% 0%;
+    margin: 1% 0% 0% 0%;
     color: #fff;
     background-color: #a0a0a033;
 }
@@ -332,3 +332,39 @@ nav a {
 }
 /* magnus carlsen */
 /* references */
+
+/* footer */
+footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    letter-spacing: 0.2rem;
+    background-color: #c7c7c7e0;
+}
+
+footer h3 {
+    text-shadow: #fff 1px 0 10px;
+}
+
+footer a {
+    color: #000;
+    text-shadow: #fff 1px 0 10px;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #fff;
+    text-shadow: #000 1px 0 10px;
+    text-decoration: underline;
+}
+
+.footerContLeft {
+    margin: 0% 0% 0% 1%;
+    padding: 0.5% 1%;
+}
+
+.footerContRight {
+    margin: 0% 1% 0% 0%;
+    padding: 0.5% 1%;
+}
+/* footer */
