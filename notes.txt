@@ -27,6 +27,7 @@ work on references page
 
 1/10/2024
 √updated references home link to link to home page
+finished references html/css
 
 Xno navbar
 navbar links will be after the intro paragraph
