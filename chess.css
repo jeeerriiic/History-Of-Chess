@@ -95,13 +95,6 @@ nav a {
     text-align: left;
     margin: 2% 2%;
 }
-
-.article h4 {
-    color: #fff;
-    letter-spacing: 0.2rem;
-    text-align: left;
-    margin: 2% 2% 0% 2%;
-}
 /* intro */
 .introCont {
     display: flex;

@@ -65,3 +65,204 @@ nav a {
     text-decoration: underline;
 }
 /* navbar */
+
+/* references */
+.refCont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+    letter-spacing: 0.5rem;
+    margin: 1% 0%;
+    background-color: #a0a0a033;
+}
+
+.refCont h5 {
+    font-style: italic;
+    color: #fff;
+    letter-spacing: 0.2rem;
+}
+/* chess.html bodyBackground */
+.chessBodyBackgroundCont {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2%;
+}
+
+.chessBodyBackgroundImg img {
+    border: 2px solid #fff;
+    width: 55%;
+}
+/* chess.html bodyBackground */
+
+/* references.html bodyBackground */
+.referencesBodyBackgroundCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.referencesBodyBackgroundImg img {
+    border: 2px solid #fff;
+    width: 55%;
+}
+/* references.html bodyBackground */
+
+/* intro */
+.introCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.introImg img {
+    border: 2px solid #fff;
+    width: 55%;
+}
+/* intro */
+
+/* chaturanga */
+.chaturangaCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.chaturangaImg img {
+    border: 2px solid #fff;
+    width: 55%;
+}
+/* chaturanga */
+
+/* jaques staunton */
+.jaquesStauntonCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.jaquesStauntonImg img {
+    border: 2px solid #fff;
+    width: 70%;
+}
+/* jaques staunton */
+
+/* paul morphy */
+.paulMorphyCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.paulMorphyImg img {
+    border: 2px solid #fff;
+    width: 80%;
+}
+/* paul morphy */
+
+/* wilhelm steinitz */
+.wilhelmSteinitzCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.wilhelmSteinitzImg img {
+    border: 2px solid #fff;
+    width: 80%;
+}
+/* wilhelm steinitz */
+
+/* emanuel lasker */
+.emanuelLaskerCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.emanuelLaskerImg img {
+    border: 2px solid #fff;
+    width: 80%;
+}
+/* emanuel lasker */
+
+/* jose raul capblanca */
+.joseRaulCapblancaCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.joseRaulCapblancaImg img {
+    border: 2px solid #fff;
+    width: 80%;
+}
+/* jose raul capblanca */
+
+/* alexander alekhine */
+.alexanderAlekhineCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.alexanderAlekhineImg img {
+    border: 2px solid #fff;
+    width: 60%;
+}
+/* alexander alekhine */
+
+/* mikhail botvinnik */
+.mikhailBotvinnikCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.mikhailBotvinnikImg img {
+    border: 2px solid #fff;
+    width: 80%;
+}
+/* mikhail botvinnik */
+
+/* bobby fischer */
+.bobbyFischerCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.bobbyFischerImg img {
+    border: 2px solid #fff;
+    width: 50%;
+}
+/* bobby fischer */
+
+/* anatoly karpov */
+.anatolyKarpovCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.anatolyKarpovImg img {
+    border: 2px solid #fff;
+    width: 60%;
+}
+/* anatoly karpov */
+
+/* garry kasparov */
+.garryKasparovCont {
+    display: flex;
+    flex-direction: column;
+}
+
+.garryKasparovImg img {
+    border: 2px solid #fff;
+    width: 80%;
+}
+/* garry kasparov */
+
+/* magnus carlsen */
+.magnusCarlsenCont {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2%;
+}
+
+.magnusCarlsenImg img {
+    border: 2px solid #fff;
+    width: 55%;
+}
+/* magnus carlsen */
+/* references */
