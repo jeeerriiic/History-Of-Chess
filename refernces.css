@@ -73,22 +73,33 @@ nav a {
     align-items: center;
     width: 100%;
     height: auto;
-    font-family: sans-serif;
     letter-spacing: 0.5rem;
     margin: 1% 0%;
+    color: #fff;
     background-color: #a0a0a033;
 }
 
-.refCont h5 {
+.refCont h3 {
+    font-family: sans-serif;
+    /* text-decoration: underline; */
+}
+
+.refCont h4 {
+    font-family: 'Times New Roman', Times, serif;
     font-style: italic;
-    color: #fff;
     letter-spacing: 0.2rem;
+    margin: 0;
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;
 }
 /* chess.html bodyBackground */
 .chessBodyBackgroundCont {
     display: flex;
     flex-direction: column;
-    padding-top: 2%;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .chessBodyBackgroundImg img {
@@ -101,6 +112,10 @@ nav a {
 .referencesBodyBackgroundCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .referencesBodyBackgroundImg img {
@@ -113,6 +128,10 @@ nav a {
 .introCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .introImg img {
@@ -125,6 +144,10 @@ nav a {
 .chaturangaCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .chaturangaImg img {
@@ -137,11 +160,15 @@ nav a {
 .jaquesStauntonCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .jaquesStauntonImg img {
     border: 2px solid #fff;
-    width: 70%;
+    width: 55%;
 }
 /* jaques staunton */
 
@@ -149,11 +176,15 @@ nav a {
 .paulMorphyCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .paulMorphyImg img {
     border: 2px solid #fff;
-    width: 80%;
+    width: 55%;
 }
 /* paul morphy */
 
@@ -161,11 +192,15 @@ nav a {
 .wilhelmSteinitzCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .wilhelmSteinitzImg img {
     border: 2px solid #fff;
-    width: 80%;
+    width: 55%;
 }
 /* wilhelm steinitz */
 
@@ -173,11 +208,15 @@ nav a {
 .emanuelLaskerCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .emanuelLaskerImg img {
     border: 2px solid #fff;
-    width: 80%;
+    width: 55%;
 }
 /* emanuel lasker */
 
@@ -185,11 +224,15 @@ nav a {
 .joseRaulCapblancaCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .joseRaulCapblancaImg img {
     border: 2px solid #fff;
-    width: 80%;
+    width: 55%;
 }
 /* jose raul capblanca */
 
@@ -197,11 +240,15 @@ nav a {
 .alexanderAlekhineCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .alexanderAlekhineImg img {
     border: 2px solid #fff;
-    width: 60%;
+    width: 55%;
 }
 /* alexander alekhine */
 
@@ -209,11 +256,15 @@ nav a {
 .mikhailBotvinnikCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .mikhailBotvinnikImg img {
     border: 2px solid #fff;
-    width: 80%;
+    width: 55%;
 }
 /* mikhail botvinnik */
 
@@ -221,11 +272,15 @@ nav a {
 .bobbyFischerCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .bobbyFischerImg img {
     border: 2px solid #fff;
-    width: 50%;
+    width: 55%;
 }
 /* bobby fischer */
 
@@ -233,11 +288,15 @@ nav a {
 .anatolyKarpovCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .anatolyKarpovImg img {
     border: 2px solid #fff;
-    width: 60%;
+    width: 55%;
 }
 /* anatoly karpov */
 
@@ -245,11 +304,15 @@ nav a {
 .garryKasparovCont {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033;
 }
 
 .garryKasparovImg img {
     border: 2px solid #fff;
-    width: 80%;
+    width: 55%;
 }
 /* garry kasparov */
 
@@ -257,7 +320,10 @@ nav a {
 .magnusCarlsenCont {
     display: flex;
     flex-direction: column;
-    padding-bottom: 2%;
+    width: 100%;
+    margin: 1% 0%;
+    padding: 2% 0%;
+    border-bottom: 2px solid #a0a0a033
 }
 
 .magnusCarlsenImg img {
